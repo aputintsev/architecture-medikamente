@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="NMnNZFPqH-kwnToaTa8r">
+    <mxGraphModel dx="2054" dy="1039" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-1" edge="1" parent="1" source="LpxSdXkyBABpp8g6rnvx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LpxSdXkyBABpp8g6rnvx-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-2" connectable="0" parent="LpxSdXkyBABpp8g6rnvx-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Направление на анализы" vertex="1">
+          <mxGeometry relative="1" x="0.2791" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-3" edge="1" parent="1" source="LpxSdXkyBABpp8g6rnvx-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="LpxSdXkyBABpp8g6rnvx-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-4" connectable="0" parent="LpxSdXkyBABpp8g6rnvx-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результаты анализов" vertex="1">
+          <mxGeometry relative="1" x="-0.1848" y="-1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-5" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="Анализы" vertex="1">
+          <mxGeometry height="88" width="86" x="590" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-6" edge="1" parent="1" source="LpxSdXkyBABpp8g6rnvx-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="LpxSdXkyBABpp8g6rnvx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-7" connectable="0" parent="LpxSdXkyBABpp8g6rnvx-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Направление на анализы" vertex="1">
+          <mxGeometry relative="1" x="-0.1538" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-8" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Пациент" vertex="1">
+          <mxGeometry height="50" width="100" x="230" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-9" edge="1" parent="1" source="LpxSdXkyBABpp8g6rnvx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" target="LpxSdXkyBABpp8g6rnvx-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-10" connectable="0" parent="LpxSdXkyBABpp8g6rnvx-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Результаты анализов" vertex="1">
+          <mxGeometry relative="1" x="-0.2059" y="-2" as="geometry">
+            <mxPoint x="14" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-11" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Лаборатория" vertex="1">
+          <mxGeometry height="50" width="100" x="579" y="562" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-12" parent="1" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" value="&lt;div style=&quot;direction: rtl;&quot;&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="72" width="123" x="888" y="294" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;rotation=-90;" value="Laboratory Registry" vertex="1">
+          <mxGeometry height="30" width="60" x="872" y="319" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Реестр анализов" vertex="1">
+          <mxGeometry height="30" width="60" x="932" y="317" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-15" parent="1" style="html=1;dashed=0;whiteSpace=wrap;background=#555555;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="TLS, RBAC" vertex="1">
+          <mxGeometry height="23" width="101" x="710" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="LpxSdXkyBABpp8g6rnvx-16" parent="1" style="html=1;dashed=0;whiteSpace=wrap;background=#555555;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="PII, PHI&lt;div&gt;Шифрование at rest&lt;/div&gt;&lt;div&gt;Аудит доступа&lt;/div&gt;" vertex="1">
+          <mxGeometry height="45" width="134" x="888" y="385" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
